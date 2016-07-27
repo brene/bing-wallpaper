@@ -3,20 +3,8 @@ A script to download the bing-wallpaper of the day
 
 # Installation
 ``` Python
-pip install requests
+pip install requests wget
 ``` 
-## OS X
-```
-brew install wget
-```
-## Ubuntu
-```
-sudo apt-get install wget
-```
-
-## Windows
-Follow instruction guide [here](http://gnuwin32.sourceforge.net/packages/wget.htm).
-
 # Usage
 Just call:
 ``` Python
