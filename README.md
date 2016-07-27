@@ -3,7 +3,7 @@ A script to download the bing-wallpaper of the day
 
 # Installation
 ``` Python
-pip install requests wget
+pip install requests
 ``` 
 # Usage
 Just call:
