@@ -1,5 +1,6 @@
 # bing-wallpaper
 A script to download the bing-wallpaper of the day
+Questions? Tweet at me: [@renebrandel](https://twitter.com/renebrandel)
 
 # Installation
 ``` Python
